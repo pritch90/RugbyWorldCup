@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="RugbyWorldCup/RugbyWorldCup.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RugbyWorldCup/Program.cs">
+    <Files>
+      <File FileName="RugbyWorldCup/Program.cs" Line="38" Column="99" />
+      <File FileName="RugbyWorldCup/ResultsTable.cs" Line="30" Column="9" />
+      <File FileName="RugbyWorldCup/Team.cs" Line="11" Column="9" />
+      <File FileName="RugbyWorldCup/Match.cs" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RugbyWorldCup" expanded="True">
+            <Node name="RugbyWorldCup" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
